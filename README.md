@@ -21,5 +21,3 @@ Add files in VMemDirect/qemu-2.4.1-VMemDirect to qemu-2.4.1
 `make`
 
 `make install`
-
-`cp /usr/local/bin/qemu-system-x86_64 /usr/bin/`
